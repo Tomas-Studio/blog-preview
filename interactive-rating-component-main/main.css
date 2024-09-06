@@ -129,8 +129,8 @@ button {
   text-transform: uppercase;
 }
 
-@media (max-width: 650px) {
+/* @media (max-width: 650px) {
   .rating-container {
     width: 100%;
   }
-}
+} */
